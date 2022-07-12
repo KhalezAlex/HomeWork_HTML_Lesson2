@@ -1,0 +1,12 @@
+.container {
+  width: fit-content;
+  margin: auto;
+  background-color: rgb(245, 240, 240);
+  padding: 20px;
+}
+.grey {
+  color: rgb(165, 165, 165);
+}
+.blue {
+  color: blue;
+}

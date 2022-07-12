@@ -1,0 +1,58 @@
+.container {
+  width: 40%;
+  height: fit-content;
+  margin: auto;
+  background-color: rgb(245, 245, 245);
+  display: flex;
+  flex-direction: column;
+}
+.caption {
+  margin-left: 7%;
+  margin-right: 7%;
+  font-size: 32px;
+  padding-top: 5px;
+  padding-bottom: 8px;
+}
+.list {
+  padding-left: 0px;
+}
+.oddString {
+  margin-left: 7%;
+  margin-right: 7%;
+  padding-top: 12px;
+  padding-bottom: 10px;
+  background-color: rgb(165, 204, 218);
+  display: flex;
+  flex-direction: row;
+  justify-content: baseline;
+}
+.evenString {
+  margin-left: 7%;
+  margin-right: 7%;
+  padding-top: 12px;
+  padding-bottom: 10px;
+  background-color: rgb(173, 216, 230);
+  display: flex;
+  flex-direction: row;
+  justify-content: baseline;
+}
+.done {
+  margin-left: 7%;
+  margin-right: 7%;
+  padding-top: 12px;
+  padding-bottom: 10px;
+  background-color: rgb(226, 226, 226);
+  display: flex;
+  flex-direction: row;
+  justify-content: baseline;
+}
+.img {
+  height: 70%;
+  margin-left: 8%;
+  margin-right: 15px;
+}
+.cross {
+  font-size: 8px;
+  margin-left: 25px;
+  margin-top: 5px;
+}
